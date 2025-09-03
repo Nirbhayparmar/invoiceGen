@@ -1,0 +1,4 @@
+- need to creat context for appwrite
+- form for invoice
+- components for form
+- function to render html and then save it as pdf
